@@ -1,2 +1,2 @@
 # test
-This is a repository to learn Git 
+This is a repository to learn Git for data science
